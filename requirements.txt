@@ -7,3 +7,4 @@ numpy
 pymongo
 python-dateutil
 scikit-learn
+huggingface_hub
